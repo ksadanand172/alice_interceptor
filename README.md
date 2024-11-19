@@ -1,6 +1,6 @@
-# Alice - API Inspector Plugin (Minimal QA Version)
+# Alice - API Interceptor Plugin (Minimal QA Version)
 
-Alice is a lightweight HTTP inspector for Flutter applications. This modified version is tailored specifically for **QA engineers** and developers by providing essential features for API debugging. It includes a **shake sensor** to open API logs and a **Copy cURL** feature to reproduce requests effortlessly.
+Alice interceptor is a lightweight HTTP inspector for Flutter applications. This modified version is tailored specifically for **QA engineers** and developers by providing essential features for API debugging. It includes a **shake sensor** to open API logs and a **Copy cURL** feature to reproduce requests effortlessly.
 
 ---
 
